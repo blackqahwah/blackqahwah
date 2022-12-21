@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @blackqahwah
-- 👀 I’m interested in bulding Software and Machine Learning.
-- 🌱 I’m currently learning VanillaJs.
+- 👋 Hi, I’m Rahmah
+- 👀 I’m interested in bulding Web Engineering and Machine Learning using Javascript.
+- 🌱 I’m still a bit hooked on vanillaJs
 - 💞️ I’m looking to collaborate on intersting projects.
-- 📫 @muntaqebah on twitter.
+- 📫 @rahmatuhu on twitter.
 
 <!---
 blackqahwah/blackqahwah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
