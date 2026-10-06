@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahmah
-- 👀 I’m interested in bulding web, cloud, and AI engineering.
+- 👀 I’m interested in building on web, cloud, and AI.
 - 💞️ I’m looking to collaborate on intersting projects.
 - 📫 @limbicease on twitter.
 
